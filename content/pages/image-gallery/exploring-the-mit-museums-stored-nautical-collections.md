@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 title: Exploring the MIT Museum's stored nautical collections
+type: CourseSection
 uid: 5b340dbf-a7b0-1714-6eae-b6a1582f0e9c
 ---
 

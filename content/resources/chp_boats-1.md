@@ -7,7 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Image
 title: chp_boats.jpg
+type: OCWImage
 uid: 3621304c-f2cf-15fb-1413-20a1463ba479
 ---

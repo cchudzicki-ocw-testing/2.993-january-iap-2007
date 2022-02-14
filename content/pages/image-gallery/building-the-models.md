@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Image Gallery
+parent_type: CourseSection
 parent_uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 title: Building the Models
+type: CourseSection
 uid: d579ce29-1e9b-3bea-8df6-e1ac45a11554
 ---
 
