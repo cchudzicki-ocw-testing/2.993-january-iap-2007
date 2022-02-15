@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 title: Drawing up plans for the completed models
-type: CourseSection
 uid: 350c9abd-1a09-2420-0830-be0b5e07eb7a
 ---
 

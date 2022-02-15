@@ -5,7 +5,6 @@ parent_title: Image Gallery
 parent_type: CourseSection
 parent_uid: 1908160a-10b3-4495-98f8-3ea7592a646f
 title: Final Projects
-type: CourseSection
 uid: df2966f6-603b-725a-f7f5-7478b7969c7f
 ---
 
