@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: chp_boats.jpg
 uid: 63e34ffe-238a-dafb-8922-0d4d317871b6
