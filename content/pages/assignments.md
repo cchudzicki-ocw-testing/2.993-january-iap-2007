@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the course assignments and links
+  to images and video of the hull forms created in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
